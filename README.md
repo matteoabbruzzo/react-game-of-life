@@ -6,6 +6,8 @@ The game is a zero-player game, meaning that its evolution is determined by its 
 
 The Gosper glider gun configuration is already proposed at the beginning
 
+[Check out the demo !](https://matteoabbruzzo.github.io/react-game-of-life/)
+
 ## Available Scripts
 
 In the project directory, you can run:
